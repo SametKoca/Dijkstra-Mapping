@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1490048979 source:c:\users\samet\desktop\prolab2_proje1_djikstra\main.cpp
+	<stdio.h>
+	<locale.h>
+	<string.h>
+	<graphics.h>
+	<stdlib.h>
+
